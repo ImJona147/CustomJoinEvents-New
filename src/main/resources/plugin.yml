@@ -1,0 +1,11 @@
+name: CustomJoinEvents
+version: '${project.version}'
+main: com.imjona.customjoinevents.CustomJoinEvents
+api-version: 1.13
+author: _ImJona
+description: Multiple event plugin when a player enters the server
+website: https://eaglemc.gitbook.io/customjoinevents
+softdepend:
+  - PlaceholderAPI
+
+
